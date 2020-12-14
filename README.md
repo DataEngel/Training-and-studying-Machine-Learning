@@ -6,7 +6,7 @@ Somos un grupo de estudiantes interesados en el aprendizaje del Machine Learning
 
 --- 
 
-## AVISO: La documentación del código, las modificaciones, y casi todo lo que hagamos queda regida por la licencia del autor, ya que toda nuestra ruta de estudio y entrenamiento en Machine Learning está basada en su libro. Por favor, antes de clonar el repositorio, modificar, usar, etc. Revisar la licencia Apache a detalle con todos sus términos y condiciones. 
+## AVISO: La documentación del código, las modificaciones, y casi todo lo que hagamos queda regido por la licencia del autor, ya que toda nuestra ruta de estudio y entrenamiento en Machine Learning está basada en su libro. Por favor, antes de clonar el repositorio, modificar, usar, etc. Revisar la licencia Apache a detalle con todos sus términos y condiciones. 
 
 ---
 
