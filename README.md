@@ -10,4 +10,4 @@ Somos un grupo de estudiantes interesados en el aprendizaje del Machine Learning
 
 ---
 
-Y les dejamos el enlace al repositorio original del autor del libro: [Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://github.com/ageron/handson-ml)  
+Y les dejamos el enlace al repositorio original del autor del libro: [Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://github.com/ageron/handson-ml2)   
